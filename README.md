@@ -18,7 +18,7 @@ ____
 **What questions will we answer in this study:**
 
  * How many rating groups are present in the data
- * What ratings do users rate most often?
+ * What ratings do users rate most often
  * What ratings do users give on average
  * What years were the shows launched
  * Can we conclude that 2017 is a better year for Netflix
