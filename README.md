@@ -24,3 +24,9 @@ ____
  * Can we conclude that 2017 is a better year for Netflix
  * Which rating groups are running shows on Netflix
  * We will choose the show you like and make a descriptive portrait of it
+
+<div id="picture" align="center"
+    <a href="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/show%20you%20like.png">
+        <img src="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/show%20you%20like.png">
+    </a>
+</div>
