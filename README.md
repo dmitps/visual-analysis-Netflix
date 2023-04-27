@@ -1,1 +1,2 @@
-# visual-analysis-show-Netflix
+# Visual analysis of the show Netflix
+
