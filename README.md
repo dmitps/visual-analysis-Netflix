@@ -30,8 +30,8 @@ ____
 * What years were the shows launched
  
 <div id="picture" align="center"
-    <a href="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/years.png">
-        <img src="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/years.png">
+    <a href="">
+        <img src="">
     </a>
 </div>
  
