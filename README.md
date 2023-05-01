@@ -1,13 +1,10 @@
-<div id="header" align="center">
+<div align="center">
     <h1>Visual analysis of the show Netflix</h1>
 </div>
 
-<div id="picture" align="center"
-    <a href="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/netflix.png">
-        <img src="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/netflix.png">
-    </a>
+<div align="center">
+  <img src="./images/netflix.png" alt="netflix">
 </div>
-
 
 Netflix over the past 5-10 years has acquired a large number of viewers. As the number of viewers increased, so did the variety of shows. Accordingly, analysts from the film industry were faced with the task of researching data with the ratings of various series.
 
@@ -21,33 +18,26 @@ ____
 * What ratings do users rate most often
 * What ratings do users give on average
  
-<div id="picture" align="center"
-    <a href="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/frequent%20evaluations.png">
-        <img src="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/frequent%20evaluations.png">
-    </a>
+<div align="center">
+  <img src="./images/frequent evaluations.png" alt="frequent evaluations">
 </div>
  
 * What years were the shows launched
- 
-<div id="picture" align="center"
-    <a href="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/year%20of%20launch.png">
-        <img src="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/year%20of%20launch.png">
-    </a>
+
+<div align="center">
+  <img src="./images/year of launch.png" alt="year of launch">
 </div>
  
 * Can we conclude that 2017 is a better year for Netflix
 * Which rating groups are running shows on Netflix
- 
-<div id="picture" align="center"
-    <a href="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/rating%20groups.png">
-        <img src="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/rating%20groups.png">
-    </a>
+
+
+<div align="center">
+  <img src="./images/rating groups.png" alt="rating groups" width="45%">
 </div>
  
 * We will choose the show you like and make a descriptive portrait of it
 
-<div id="picture" align="center"
-    <a href="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/show%20you%20like.png">
-        <img src="https://github.com/dmitps/visual-analysis-of-the-show-netflix/blob/main/images/show%20you%20like.png">
-    </a>
+<div align="center">
+  <img src="./images/show you like.png" alt="show you like">
 </div>
