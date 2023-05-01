@@ -33,7 +33,7 @@ ____
 
 
 <div align="center">
-  <img src="./images/rating groups.png" alt="rating groups" width="45%">
+  <img src="./images/rating groups.png" alt="rating groups" width="50%">
 </div>
  
 * We will choose the show you like and make a descriptive portrait of it
